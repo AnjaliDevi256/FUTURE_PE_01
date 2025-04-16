@@ -28,11 +28,5 @@ To create a **video demonstration** showcasing the features, functionality, and 
 🔹 Importance of **clarity, structure**, and **visual flow** in demonstrations
 
 ---
-
-## 📁 Project Structure
-FUTURE_PE_01/ ├── Smart_Watch_Demo.mp4   
-             |── README.md 
-
----
 **#SmartWatch #PromptEngineering #FUTUREInternship #VideoProject #GitHub #WearableTech #UIUX #VisualStorytelling**
 
