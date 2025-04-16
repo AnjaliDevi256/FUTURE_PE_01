@@ -17,6 +17,7 @@ To create a **video demonstration** showcasing the features, functionality, and 
 ✅ A visually engaging **Smart Watch Demo Video**  
 ✅ Focus on **user interface, feature flow**, and **realistic usage**  
 ✅ Highlights key functions like time display, health tracking, and notifications
+
 🎥 [Watch the demo video](https://youtube.com/shorts/JK6zaaB5lnE?feature=share)
 
 ---
